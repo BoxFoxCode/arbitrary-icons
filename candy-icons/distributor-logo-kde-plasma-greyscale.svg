@@ -10,22 +10,22 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="distributor-logo-kde-plasma-greyscale.svg"
-   id="svg26454"
+   id="svg928"
    height="64"
    version="1.1"
    width="64">
   <sodipodi:namedview
      inkscape:current-layer="layer1"
      inkscape:window-maximized="0"
-     inkscape:window-y="62"
-     inkscape:window-x="490"
-     inkscape:cy="25.782127"
-     inkscape:cx="17.780188"
+     inkscape:window-y="437"
+     inkscape:window-x="246"
+     inkscape:cy="37.632457"
+     inkscape:cx="39.808202"
      inkscape:zoom="6.71875"
      showgrid="false"
-     id="namedview26456"
-     inkscape:window-height="950"
-     inkscape:window-width="1256"
+     id="namedview930"
+     inkscape:window-height="882"
+     inkscape:window-width="1469"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -33,10 +33,33 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff"
-     inkscape:document-rotation="0" />
+     pagecolor="#ffffff" />
   <defs
      id="defs5455">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3399">
+      <stop
+         style="stop-color:#d7dde8;stop-opacity:1"
+         offset="0"
+         id="stop3395" />
+      <stop
+         style="stop-color:#757f9a;stop-opacity:1"
+         offset="1"
+         id="stop3397" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1514-8"
+       inkscape:collect="always">
+      <stop
+         id="stop1510"
+         offset="0"
+         style="stop-color:#757f9a;stop-opacity:1" />
+      <stop
+         id="stop1512"
+         offset="1"
+         style="stop-color:#d7dde8;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4326"
        inkscape:collect="always">
@@ -58,21 +81,21 @@
        inkscape:collect="always" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
+       y2="492.92298"
+       x2="406.57143"
+       y1="492.92298"
+       x1="400.32141"
+       id="linearGradient1516"
+       xlink:href="#linearGradient3399"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
        y2="513.79877"
        x2="399.57144"
        y1="513.79877"
        x1="390.57141"
-       id="linearGradient29349"
-       xlink:href="#_lgradient_17"
-       inkscape:collect="always" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="492.92297"
-       x2="406.57144"
-       y1="492.92297"
-       x1="400.32141"
-       id="linearGradient29441"
-       xlink:href="#_lgradient_17"
+       id="linearGradient2153"
+       xlink:href="#linearGradient3399"
        inkscape:collect="always" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -80,38 +103,31 @@
        x2="416.57144"
        y1="535.29803"
        x1="403.57144"
-       id="linearGradient29449"
-       xlink:href="#_lgradient_17"
+       id="linearGradient2161"
+       xlink:href="#linearGradient3399"
        inkscape:collect="always" />
     <linearGradient
-       id="_lgradient_17"
-       x1="0"
-       y1="0.5"
-       x2="1"
-       y2="0.5"
-       gradientTransform="matrix(37.099999,0,0,40.355999,338.67271,466.7422)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0%"
-         stop-opacity="1"
-         style="stop-color:rgb(117,127,154)"
-         id="stop7564" />
-      <stop
-         offset="98.69565217391305%"
-         stop-opacity="1"
-         style="stop-color:rgb(215,221,232)"
-         id="stop7566" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#_lgradient_17"
-       id="linearGradient7163"
-       x1="32.023254"
-       y1="24.976744"
-       x2="51.039532"
-       y2="5.9604645"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       y2="5.0674415"
+       x2="51.932556"
+       y1="22.893023"
+       x1="34.106976"
+       id="linearGradient3388"
+       xlink:href="#linearGradient1514-8"
+       inkscape:collect="always" />
   </defs>
+  <metadata
+     id="metadata5458">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <g
      transform="matrix(1 0 0 1 -384.57143 -483.798)"
      id="layer1"
@@ -121,18 +137,29 @@
        transform="matrix(1 0 0 1 384.57143 483.798)"
        d="M 41 5 L 35 11 L 46 22 L 35 33 L 41 39 L 58 22 L 41 5 z "
        id="path4422"
-       style="fill:url(#linearGradient7163);fill-rule:evenodd;fill-opacity:1.0" />
+       style="fill:url(#linearGradient3388);fill-rule:evenodd;fill-opacity:1" />
     <rect
        id="rect4119"
-       style="fill:url(#linearGradient29441);fill-opacity:1;opacity:0.999"
+       style="fill:url(#linearGradient1516);fill-opacity:1"
        height="6.250019"
        rx="3.12501"
        y="489.79797"
        x="400.32141"
        width="6.250019" />
+    <flowRoot
+       id="flowRoot4170"
+       style="font-size:32.500004;font-family:sans-serif"
+       line-height="125%"><flowRegion
+         id="flowRegion4172"><rect
+           id="rect4174"
+           height="48.750004"
+           y="489.79807"
+           x="452.32144"
+           width="87.75001" /></flowRegion><flowPara
+         id="flowPara4176">Plasm</flowPara></flowRoot>
     <rect
        id="rect4308"
-       style="fill:url(#linearGradient29349);fill-opacity:1.0"
+       style="fill:url(#linearGradient2153);fill-opacity:1.0"
        height="8.999991"
        rx="4.499995"
        y="509.2988"
@@ -140,7 +167,7 @@
        width="9.00002" />
     <rect
        id="rect4312"
-       style="fill:url(#linearGradient29449);fill-opacity:1.0"
+       style="fill:url(#linearGradient2161);fill-opacity:1.0"
        height="12.999995"
        rx="6.499998"
        y="528.79803"
@@ -152,16 +179,4 @@
        style="fill:url(#linearGradient4434);opacity:0.9;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
   </g>
-  <metadata
-     id="metadata6528">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title></dc:title>
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
 </svg>
